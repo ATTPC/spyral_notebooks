@@ -9,3 +9,7 @@
 *.png
 *.jpg
 *.svg
+*.csv
+*.parquet
+*.h5
+*.hdf5
